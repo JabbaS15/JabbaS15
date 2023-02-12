@@ -3,4 +3,4 @@
 <h3 align="center">Yandex.Practicum graduate (Python-developer Plus)</h3>
 
 ### Hard Skills:
-Python | Django | Django REST Framework | RESTful API | FastAPI | Flask | Scrapy | PostgreSQL | HTML | CSS | Nginx |Gunicorn| Docker | Unittest |Pytest | Yandex.Cloud | Linux | GIT
+Python | Django | Django REST Framework | RESTful API | FastAPI | Flask | Scrapy | PostgreSQL | HTML | CSS | Nginx | Gunicorn | Docker | Unittest | Pytest | Yandex.Cloud | Linux | GIT
